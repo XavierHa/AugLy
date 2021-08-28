@@ -4,7 +4,7 @@ Fixes #{issue number}
 ## Summary
 - [ ] I have read CONTRIBUTING.md to understand how to contribute to this repository :)
 
-<Please summarize what you are trying to achieve, what changes you made, and how they acheive the desired result.>
+<Please summarize what you are trying to achieve, what changes you made, and how they achieve the desired result.>
 
 ## Unit Tests
 If your changes touch the `audio` module, please run all of the `audio` tests and paste the output here. Likewise for `image`, `text`, & `video`. If your changes could affect behavior in multiple modules, please run the tests for all potentially affected modules. If you are unsure of which modules might be affected by your changes, please just run all the unit tests.
